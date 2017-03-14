@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SwEngTesting:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SwEngTesting_jar</output-path>
+    <root id="archive" name="SwEngTesting.jar">
+      <element id="module-output" name="SwEngTesting" />
+    </root>
+  </artifact>
+</component>
